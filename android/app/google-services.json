@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484566361487",
+    "project_id": "trackmobile-push-notification",
+    "storage_bucket": "trackmobile-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484566361487:android:730d994f3b6d1f78bcd7fa",
+        "android_client_info": {
+          "package_name": "com.yourbudgit.trackamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484566361487-e0rrflko8tt8ku5c9tpmq1t7hd1eipfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcUxJbJaVXZ3r8RYSVR-UOlxo9sE3bmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484566361487-e0rrflko8tt8ku5c9tpmq1t7hd1eipfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

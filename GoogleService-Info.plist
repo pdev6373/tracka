@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484566361487-7tnqi5bti5s9j6pej4p2vsqvh62mh60n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484566361487-7tnqi5bti5s9j6pej4p2vsqvh62mh60n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>484566361487-vlp1l34h3nvk2eut79qe63jful7j7pke.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCobMdzP1twDkAHqiDeu9xwu5QC8trvGIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484566361487</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yourbudgit.trackamobile</string>
+	<key>PROJECT_ID</key>
+	<string>trackmobile-push-notification</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trackmobile-push-notification.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484566361487:ios:c5f2be6d4e4bd579bcd7fa</string>
+</dict>
+</plist>

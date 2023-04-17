@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yourbudgit.trackamobile",
+        "sha256_cert_fingerprints":
+          ["26:B4:66:15:D1:05:97:C2:55:44:9B:EC:11:5C:F6:05:01:2F:F8:AA:EB:ED:CC:74:6D:AD:06:CA:8C:BF:C7:68"]
+      }
+    }
+  ]

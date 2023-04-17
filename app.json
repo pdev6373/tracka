@@ -1,0 +1,72 @@
+{
+  "expo": {
+    "name": "Tracka Mobile",
+    "slug": "trackaMobile",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "scheme": "trackamobile",
+    "sdkVersion": "47.0.0",
+    "splash": {
+      "image": "./src/assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourbudgit.trackamobile",
+      "buildNumber": "2",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "fetch",
+          "remote-notification"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#1B4E63"
+      },
+      "package": "com.yourbudgit.trackamobile",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 31,
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "https",
+              "host": "https://trackmobile-push-notification.web.app",
+              "pathPrefix": "/records"
+            }
+          ],
+          "category": [
+            "BROWSABLE",
+            "DEFAULT"
+          ]
+        }
+      ]
+    },
+    "web": {
+      "favicon": "./src/assets/icon.png"
+    },
+    "facebookScheme": "fb655829575764897",
+    "facebookDisplayName": "Tracka Mobile 2.0",
+    "facebookAppId": "655829575764897",
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "69529b12-8fb0-4095-bdcf-b6ccc166482d"
+      }
+    }
+  }
+}
